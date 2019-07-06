@@ -4,7 +4,7 @@ nginx dockerfile demo
 Build the image 
 # docker build -t pradhans0906/hello-world-nginx .
 Run the image
-# docker run -p 8090:80 pradhans0906/hello-world-nginx
+# docker run -p 8080:80 pradhans0906/hello-world-nginx
 
 deattach mode 
 
